@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 104" role="img" aria-labelledby="title desc">
+  <title id="title">Casa Verde Lanzarote</title>
+  <desc id="desc">Drei stilisierte Dächer über dem Schriftzug Casa Verde Lanzarote</desc>
+  <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 42 78 8l55 34M116 42l49-32 48 32M199 42l43-29 51 31"/>
+  </g>
+  <path d="m78 8 50 31-34-4z" fill="#d99165"/>
+  <path d="m165 10 43 29-29-5z" fill="#d99165"/>
+  <path d="m242 13 45 28-31-6z" fill="#d99165"/>
+  <text x="17" y="75" fill="#ffffff" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="1.5">CASA VERDE</text>
+  <text x="151" y="97" fill="#e9e2d8" font-family="Newsreader, Georgia, serif" font-size="25" font-style="italic" letter-spacing=".8">Lanzarote</text>
+</svg>
