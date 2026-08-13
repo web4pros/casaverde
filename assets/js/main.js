@@ -35,31 +35,31 @@ $$('.reveal').forEach(element => revealObserver.observe(element));
 const imagePath = name => `assets/images/originals/${name}`;
 const apartments = {
   1: {
-    title: 'Appartement 1', kicker: 'Ca. 50 m² · bis 4 Personen', rate: 'Ab 95 € / Nacht für 2 Personen',
+    title: 'Appartement 1', kicker: 'Ca. 50 m² · bis 4 Personen', rate: '95 € / Nacht für 2 Personen',
     description: 'Ein entspanntes Zuhause mit eigenem Schlafzimmer und privater Terrasse. Der Wohnraum bietet eine zusätzliche Schlafcouch; die Küche ist vollständig eingerichtet.',
     features: ['Private Terrasse', 'Doppelbett', 'Schlafsofa', 'Küche', 'Badezimmer', 'TV & Stereoanlage'],
     images: ['casaverde-apt3-01.jpg','casaverde-apt3-02.jpg','casaverde-apt3-03.jpg','casaverde-apt3-04.jpg','casaverde-apt3-05.jpg','casaverde-apt3-06.jpg','casaverde-apt3-07.jpg','casaverde-apt3-08.jpg','casaverde-apt3-09.jpg']
   },
   2: {
-    title: 'Appartement 2', kicker: 'Ca. 60 m² · bis 4 Personen', rate: 'Ab 105 € / Nacht für 2 Personen',
+    title: 'Appartement 2', kicker: 'Ca. 60 m² · bis 4 Personen', rate: '105 € / Nacht für 2 Personen',
     description: 'Viel Raum für Freunde oder Familie: zwei getrennte Schlafzimmer mit Doppelbetten, ein großzügiger Wohnbereich, eine private Terrasse und ein kleines eigenes Stück Garten.',
     features: ['Terrasse & Garten', '2 Schlafzimmer', '2 Doppelbetten', 'Küche', 'Badezimmer', 'TV & Stereoanlage'],
     images: ['casaverde-apt2-01.jpg','casaverde-apt2-02.jpg','casaverde-apt2-03.jpg','casaverde-apt2-04.jpg','casaverde-apt2-05.jpg','casaverde-apt2-06.jpg','casaverde-apt2-07.jpg','casaverde-apt2-08.jpg','casaverde-apt2-09.jpg']
   },
   3: {
-    title: 'Appartement 3', kicker: 'Ca. 40 m² · bis 4 Personen', rate: 'Ab 95 € / Nacht für 2 Personen',
+    title: 'Appartement 3', kicker: 'Ca. 40 m² · bis 4 Personen', rate: '95 € / Nacht für 2 Personen',
     description: 'Kompakt, hell und behaglich. Eine abgetrennte Schlafecke mit Doppelbett, ein Wohnbereich mit Schlafsofa und die eigene Terrasse machen es leicht, sofort anzukommen.',
     features: ['Private Terrasse', 'Schlafecke', 'Doppelbett', 'Schlafsofa', 'Küche', 'Badezimmer'],
     images: ['casaverde-apt03-01.jpg','casaverde-apt03-02.jpg','casaverde-apt03-03.jpg','casaverde-apt03-04.jpg','casaverde-apt03-05.jpg','casaverde-apt03-06.jpg','casaverde-apt03-07.jpg','casaverde-apt03-08.jpg']
   },
   4: {
-    title: 'Appartement 4', kicker: 'Ca. 70 m² · bis 4 Personen', rate: 'Ab 115 € / Nacht für 2 Personen',
+    title: 'Appartement 4', kicker: 'Ca. 70 m² · bis 4 Personen', rate: '115 € / Nacht für 2 Personen',
     description: 'Das großzügigste Appartement der Casa Verde. Neben dem separaten Schlafzimmer bietet eine offene Empore im Wohnraum zwei weitere Schlafplätze und viel Inselatmosphäre.',
     features: ['Private Terrasse', 'Schlafzimmer', 'Offene Empore', 'Küche', 'Badezimmer', 'TV & Stereoanlage'],
     images: ['casaverde-apt4-01.jpg','casaverde-apt4-02.jpg','casaverde-apt4-03.jpg','casaverde-apt4-04.jpg','casaverde-apt4-05.jpg','casaverde-apt4-06.jpg','casaverde-apt4-07.jpg','casaverde-apt4-08.jpg']
   },
   5: {
-    title: 'Appartement 5', kicker: 'Ca. 50 m² · 2 Personen', rate: 'Ab 95 € / Nacht für 2 Personen',
+    title: 'Appartement 5', kicker: 'Ca. 50 m² · 2 Personen', rate: '95 € / Nacht für 2 Personen',
     description: 'Ein persönlicher Rückzugsort für zwei: separates Schlafzimmer, Wohnraum, vollständig eingerichtete Küche, Badezimmer und eine eigene Terrasse für ruhige Stunden.',
     features: ['Private Terrasse', 'Schlafzimmer', 'Doppelbett', 'Küche', 'Badezimmer', 'Sat-TV & Stereoanlage'],
     images: ['casaverde-apt5-01.jpeg','casaverde-apt5-02.jpeg','casaverde-apt5-03.jpeg','casaverde-apt5-04.jpeg','casaverde-apt5-05.jpeg','casaverde-apt5-06.jpeg']
